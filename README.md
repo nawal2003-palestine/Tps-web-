@@ -1,5 +1,4 @@
 # Tps-web-
-TPs (web)
 
 TP1:
 1. Créer deux versions d’une petite application en PHP. Dans la première version, l’utilisateur saisit son nom et son
