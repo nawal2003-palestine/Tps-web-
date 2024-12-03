@@ -1,0 +1,16 @@
+<form action="tp1.php" method="get">
+            <table>
+                <tr>
+                    <td>Nom :</td>
+                    <td><input type="text" name="nom" required></td>
+                </tr>
+                <tr>
+                    <td>Âge :</td>
+                    <td><input type="number" name="age" required></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="Envoyer"></td>
+                    <td><input type="reset" value="Annuler"></td>
+                </tr>
+            </table>
+        </form>
